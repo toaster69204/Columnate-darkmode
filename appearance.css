@@ -1,5 +1,31 @@
+.atkinson-hyperlegible-regular {
+  font-family: "Atkinson Hyperlegible", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.atkinson-hyperlegible-bold {
+  font-family: "Atkinson Hyperlegible", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.atkinson-hyperlegible-regular-italic {
+  font-family: "Atkinson Hyperlegible", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.atkinson-hyperlegible-bold-italic {
+  font-family: "Atkinson Hyperlegible", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+
 body {
-    font-family: Georgia, "Times New Roman", Times, serif;
+    font-family: atkinson-hyperlegible-regular;
     background: #030303;
     color: #080000;
     size: 18px;
